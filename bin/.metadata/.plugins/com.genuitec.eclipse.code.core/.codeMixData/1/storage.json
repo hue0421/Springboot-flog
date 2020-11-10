@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "a02b68bae03ad73a368261e4b343ce44ab7a1f73b85427ffbf0ad764822fabdd",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "80a73260b08902083359c2efe3b67046",
+                "configURIPath": "file:///c%3A/Users/admin/git/flog/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
